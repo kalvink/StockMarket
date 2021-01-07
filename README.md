@@ -1,5 +1,5 @@
 # StockMarket
-Highschool Finals Project from GR 11
+Highschool Finals Project from GR 11 (June 15, 2012)
 
 /**
  * Stock Market is a database that simulates an actual Stock Market. 
